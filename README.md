@@ -14,7 +14,7 @@
 
 
 
-[Linkedin]: https://www.linkedin.com/in/levichurch/
+https://www.linkedin.com/in/levichurch/
 
 
 
