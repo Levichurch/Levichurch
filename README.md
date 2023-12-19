@@ -9,11 +9,11 @@
 
 
 <h2> My Certifications</h2>
-  - </b> AWS Cloud Practitioner</b>
+  - <b> AWS Cloud Practitioner</b>
 
 
 <h2> 🤳 Connect with me:</h2>
-</b>[LinkedIn] (https://www.linkedin.com/in/levichurch/)</b>
+<b>[LinkedIn] (https://www.linkedin.com/in/levichurch/)</b>
 
 
 
