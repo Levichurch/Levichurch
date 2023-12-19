@@ -13,10 +13,10 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-</b>[LinkedIn](https://www.linkedin.com/in/levichurch/)</b>
+</b>[LinkedIn] (https://www.linkedin.com/in/levichurch/)</b>
 
 
-https://www.linkedin.com/in/levichurch/
+
 
 
 
