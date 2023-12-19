@@ -9,7 +9,7 @@
 
 
 <h2> My Certifications</h2>
-  - <b> AWS Cloud Practitioner</b>
+- <b> AWS Cloud Practitioner</b>
 
 
 <h2> 🤳 Connect with me:</h2> 
