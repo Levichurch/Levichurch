@@ -9,7 +9,7 @@
 
 
 <h2> My Certifications</h2>
-- [AWS Cloud Practitioner](https://www.credly.com/badges/deadf095-94f9-4863-adf4-349df11ac609/public_url)  
+* [AWS Cloud Practitioner](https://www.credly.com/badges/deadf095-94f9-4863-adf4-349df11ac609/public_url)
 
 
 <h2> 🤳 Connect with me:</h2> 
