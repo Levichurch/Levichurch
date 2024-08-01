@@ -7,7 +7,7 @@
 - <b>Password Cracking Using Alteryx</b>
   - [Hashed Password Cracking with Dictionary](https://github.com/Levichurch/Levichurch/blob/main/Levi%20Church%20Hashed%20Password%20cracking%20Project)
 - <b>Terraform project</b>
-  -[Terraform main.tf](https://github.com/Levichurch/Levichurch/blob/main/main.tf)
+  - [Terraform main.tf](https://github.com/Levichurch/Levichurch/blob/main/main.tf)
 
 
 <h2> My Certifications</h2>
