@@ -1,0 +1,244 @@
+{
+    "drinks": [
+        {
+            "name": "beer",
+            "calories": 150,
+            "alcoholPercentage": 5
+        },
+        {
+            "name": "Beer",
+            "calories": 150,
+            "alcoholPercentage": 5
+        },
+        {
+            "name": "lager",
+            "calories": 160,
+            "alcoholPercentage": 4.5
+        },
+        {
+            "name": "Lager",
+            "calories": 160,
+            "alcoholPercentage": 4.5
+        },
+        {
+            "name": "ale",
+            "calories": 180,
+            "alcoholPercentage": 5.5
+        },
+        {
+            "name": "Ale",
+            "calories": 180,
+            "alcoholPercentage": 5.5
+        },
+        {
+            "name": "stout",
+            "calories": 200,
+            "alcoholPercentage": 6
+        },
+        {
+            "name": "Stout",
+            "calories": 200,
+            "alcoholPercentage": 6
+        },
+        {
+            "name": "IPA",
+            "calories": 220,
+            "alcoholPercentage": 6.5
+        },
+        {
+            "name": "Ipa",
+            "calories": 220,
+            "alcoholPercentage": 6.5
+        },
+        {
+            "name": "wine",
+            "calories": 125,
+            "alcoholPercentage": 13
+        },
+        {
+            "name": "Wine",
+            "calories": 125,
+            "alcoholPercentage": 13
+        },
+        {
+            "name": "wine (white)",
+            "calories": 120,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "Wine (White)",
+            "calories": 120,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "champagne",
+            "calories": 90,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "Champagne",
+            "calories": 90,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "vodka",
+            "calories": 97,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "Vodka",
+            "calories": 97,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "gin",
+            "calories": 110,
+            "alcoholPercentage": 37.5
+        },
+        {
+            "name": "Gin",
+            "calories": 110,
+            "alcoholPercentage": 37.5
+        },
+        {
+            "name": "whiskey",
+            "calories": 105,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "Whiskey",
+            "calories": 105,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "rum",
+            "calories": 96,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "Rum",
+            "calories": 96,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "tequila",
+            "calories": 110,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "Tequila",
+            "calories": 110,
+            "alcoholPercentage": 40
+        },
+        {
+            "name": "margarita",
+            "calories": 200,
+            "alcoholPercentage": 25
+        },
+        {
+            "name": "Margarita",
+            "calories": 200,
+            "alcoholPercentage": 25
+        },
+        {
+            "name": "mojito",
+            "calories": 150,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "Mojito",
+            "calories": 150,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "pina colada",
+            "calories": 400,
+            "alcoholPercentage": 15
+        },
+        {
+            "name": "Pina Colada",
+            "calories": 400,
+            "alcoholPercentage": 15
+        },
+        {
+            "name": "cosmopolitan",
+            "calories": 200,
+            "alcoholPercentage": 20
+        },
+        {
+            "name": "Cosmopolitan",
+            "calories": 200,
+            "alcoholPercentage": 20
+        },
+        {
+            "name": "sangria",
+            "calories": 130,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "Sangria",
+            "calories": 130,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "old fashioned",
+            "calories": 155,
+            "alcoholPercentage": 30
+        },
+        {
+            "name": "Old Fashioned",
+            "calories": 155,
+            "alcoholPercentage": 30
+        },
+        {
+            "name": "bloody mary",
+            "calories": 150,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "Bloody Mary",
+            "calories": 150,
+            "alcoholPercentage": 12
+        },
+        {
+            "name": "Long Island Iced Tea",
+            "calories": 270,
+            "alcoholPercentage": 22
+        },
+        {
+            "name": "Long Island Iced Tea",
+            "calories": 270,
+            "alcoholPercentage": 22
+        },
+        {
+            "name": "White Russian",
+            "calories": 400,
+            "alcoholPercentage": 15
+        },
+        {
+            "name": "white Russian",
+            "calories": 400,
+            "alcoholPercentage": 15
+        },
+        {
+            "name": "tequila Sunrise",
+            "calories": 250,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "Tequila Sunrise",
+            "calories": 250,
+            "alcoholPercentage": 10
+        },
+        {
+            "name": "mai Tai",
+            "calories": 300,
+            "alcoholPercentage": 25
+        },
+        {
+            "name": "Mai Tai",
+            "calories": 300,
+            "alcoholPercentage": 25
+        }
+    ]
+}
